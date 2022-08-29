@@ -1,5 +1,5 @@
 # norbu
-Norbu Stress Control is the first anti-stress app that teaches to manage stress and emotions on the physical level.
+Norbu Stress Control is an anti-stress app that teaches to manage stress and emotions on the physical level.
 Anxiety relief games, breathing exercises and guided meditations help to develop stress-control habits. “5-days unlock Premium for free” feature makes these premium exercises available for those who really need them for no cost.
 Norbu app has guided meditations and antistress trainings. The exercises are very simple and safe. Anyone can do it. You can meditate and breathe with a guide or in silence.
 
