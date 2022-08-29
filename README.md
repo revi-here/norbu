@@ -21,9 +21,9 @@ What is the best mechanism for switching from the free version to paid one to ma
 ***
 ## Exploratory Data Analysis.  
   
-![Android Retention](https://www.tutorialsandyou.com/images/markdownlogo.png '1,3,7 days Android Retention')  
+![Android Retention](android.png '1,3,7 days Android Retention')  
   
-![IOS Retention](https://www.tutorialsandyou.com/images/markdownlogo.png '1,3,7 days IOS Retention')  
+![IOS Retention](ios.png '1,3,7 days IOS Retention')  
   
   
   
