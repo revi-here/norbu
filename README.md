@@ -20,10 +20,11 @@ What is the best mechanism for switching from the free version to paid one to ma
   
 ***
 ## Exploratory Data Analysis.  
-  
-![Android Retention](android.png '1,3,7 days Android Retention')  
-  
-![IOS Retention](ios.png '1,3,7 days IOS Retention')  
+ 
+<b>1,3,7 days Android Retention  
+![Android Retention](images/android.png '1,3,7 days Android Retention')  
+<b>1,3,7 days IOS Retention  
+![IOS Retention](images/ios.png '1,3,7 days IOS Retention')  
   
   
   
