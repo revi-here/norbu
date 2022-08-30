@@ -27,6 +27,12 @@ What is the best mechanism for switching from the free version to paid one to ma
 ![Android Retention](images/ios.png '1,3,7 days Android Retention')  
 <b>Event funnel  
 ![Event funnel](images/user_funnel.png 'Event funnel')  
+<b>DAU (Daily Active Users)
+![DAU](images/dau.png 'DAU')  
+<b>Free users
+![Free users](images/free.png 'Free users')  
+<b>Paid users
+![Paid users](images/paid.png 'Paid users')  
   
   
   
