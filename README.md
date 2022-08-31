@@ -7,6 +7,9 @@ Anxiety relief games, breathing exercises and guided meditations help to develop
 Norbu app has guided meditations and antistress trainings. The exercises are very simple and safe.You can meditate and breathe with a guide or in silence.
 Our project is to work on various factors impacting Conversion Rate for the 'Norbu' app and come up with solution.
 
+![Norbu Stress Control App](images/norbu.png 'Norbu')   
+
+
 Problem Statement : Low CR in payment.
 What is the best mechanism for switching from the free version to paid one to make it convenient for the user, and at the same time increase the payment or increase the duration of use of free version?  
   
