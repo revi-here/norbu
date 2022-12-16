@@ -24,7 +24,7 @@ What is the best mechanism for switching from the free version to paid one to ma
 ***
 ## Exploratory Data Analysis.  
  
- Considering the size of the data , March 4,2022 to Apr 4,2022 data used mostly for our analysis.  
+ Considering the size of the data , March 4,2022 to Apr 4,2022 data used for our analysis.  
   
 <b>1,3,7 days IOS Retention  
 ![IOS Retention](images/android.png '1,3,7 days IOS Retention')  
